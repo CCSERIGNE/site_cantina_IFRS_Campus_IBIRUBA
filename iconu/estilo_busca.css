@@ -1,0 +1,70 @@
+
+
+body { background: #fff;
+	color: #000; font-size: 11px;
+	font-family: Verdana, sans-serif;
+	margin: 0; padding: 0;
+	text-align: center;
+	}
+
+#tudo {
+	background: #fff;
+	border: #fff 1px solid;
+	width: 750px;
+	margin: auto;
+	text-align: left;
+	}
+
+#cabecalho { background: #fff; font-size: 18px; text-align: 
+        center; padding: 30px; }
+
+#menu {
+	background: #fff;
+	height: 27px;
+	margin: 0; padding: 0;
+	}
+
+#menu ul {
+	margin: 0; padding: 0;
+	margin-left: 6px;
+	}
+
+#menu ul li {
+	display: inline;
+	}
+
+#menu ul li a {
+	background: #fff; //colcar um verde de fundo//
+	color: #000;
+	border: 1px #000 solid;
+	border-bottom: 1px #000 solid;
+	float: left;
+	padding: 5px 7px;
+	margin: 2px;
+	text-decoration: none;
+	}
+
+#menu ul li a:hover {
+	background: #006400;
+	color: #fff;
+	border: #fff 1px solid;
+	border-bottom: none;
+	text-decoration: none;
+	}
+
+#conteudo {
+	clear: both;
+	font-size: 12px;
+	padding: 5px;
+	text-align: center;
+	}
+
+	#rodape {
+	clear: both;
+	background: #fff;
+	border: 1px #000 solid;
+	border-bottom: 1px #000 solid;
+	color: #000;
+	padding: 5px;
+	text-align: center;
+	}
